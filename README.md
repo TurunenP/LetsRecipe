@@ -1,76 +1,57 @@
-# Getting Started with Create React App
+# ReactTastyEats
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+The ReactTastyEats application is a ReactJS-based project designed to provide users with a delightful experience exploring and discovering various recipes. Leveraging the power of the The Meal DB API, the application fetches a diverse range of recipes, allowing users to explore meals from different cuisines.
 
-In the project directory, you can run:
+### Features:
 
-### `npm start`
+- **Recipe Exploration**: Users can discover a wide variety of recipes from around the world.
+- **Dynamic User Interface**: The application offers an interactive and dynamic user interface built using ReactJS, enhancing the user experience.
+- **Simple Installation**: The project is easy to set up locally, enabling users to quickly explore the application on their machines.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Technologies used
 
-### `npm test`
+- [(ReactJS)](https://legacy.reactjs.org/docs/getting-started.html): The project is built using the React JavaScript library, providing a modular and efficient approach to building user interfaces.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [(CSS)](https://web.dev/learn/css/): CSS was responsible for controlling the presentation and layout of web pages as well as implementation of responsiveness and media queries.
 
-### `npm run build`
+- [(The Meal DB API)](https://www.themealdb.com/api.php): The application integrates with The Meal DB API to fetch and display diverse recipe data.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting started
+Clone the repository on a directory of your choice.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Step-by-step instructions on how to install and set up the project locally.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Clone the repository
+git clone https://github.com/yourusername/react-tasty-eats.git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Navigate to the project directory
+cd react-tasty-eats
 
-## Learn More
+# Install dependencies
+npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Start the development server
+npm start
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Contributor
 This project was developed by:
 
-- [@TurunenP](https://github.com/TurunenP) 
+Name: Purity Turunen - [@TurunenP](https://github.com/TurunenP/ReactTastyEats)
 
+Contributions to enhance and expand the application are welcome.
+Fork the project, create a new branch for your feature, make changes, and submit a pull request.
+
+
+# LISENCE
+This project is licensed under the MIT License.
