@@ -25,11 +25,11 @@ The ReactTastyEats application is a ReactJS-based project designed to provide us
 
 
 
-## Getting started
+# Getting started
 Clone the repository on a directory of your choice.
 
 
-### Installation
+## Installation
 
 Step-by-step instructions on how to install and set up the project locally.
 
@@ -39,12 +39,12 @@ git clone https://github.com/yourusername/react-tasty-eats.git
 ### Navigate to the project directory
 cd react-tasty-eats
 
-# Install dependencies
+### Install dependencies
 npm install
 
 ## Usage
 
-# Start the development server
+### Start the development server
 npm start
 
 
