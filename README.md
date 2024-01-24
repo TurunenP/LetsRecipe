@@ -4,6 +4,10 @@
 
 The ReactTastyEats application is a ReactJS-based project designed to provide users with a delightful experience exploring and discovering various recipes. Leveraging the power of the The Meal DB API, the application fetches a diverse range of recipes, allowing users to explore meals from different cuisines.
 
+## Homepage
+![Recipe](https://github.com/TurunenP/ReactTastyEats/assets/43337898/c3aa9ae6-9d64-46a1-8d26-ec03c72ece09)
+
+
 ### Features:
 
 - **Recipe Exploration**: Users can discover a wide variety of recipes from around the world.
