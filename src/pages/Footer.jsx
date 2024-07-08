@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className="footer">
       {/*Other footer content goes here */}
-      <p>&copy; 2023. Food Recipes. All rights reserved.</p>
+      <p>&copy; 2024. Food Recipes. All rights reserved.</p>
     </div>
   );
 }
