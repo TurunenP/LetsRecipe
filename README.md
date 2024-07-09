@@ -1,4 +1,4 @@
-# ReactTastyEats
+# TastyEats
 
 ## Overview
 
